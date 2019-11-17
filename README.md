@@ -1,1 +1,6 @@
-# Final-Project
+# Rate My School
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8000`
